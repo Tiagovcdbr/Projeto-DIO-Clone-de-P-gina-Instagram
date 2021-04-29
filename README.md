@@ -1,2 +1,2 @@
-# Projeto-DIO-Clone-de-P-gina-Instagram
+# Projeto-DIO-Clone-de-Página-Instagram
 Primeiro Projeto nas aulas da DIO clonando a Interface de Login do Instagram
